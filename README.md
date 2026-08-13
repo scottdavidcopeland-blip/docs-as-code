@@ -1,51 +1,7 @@
-# Project Title (Heading 1)
+# Creating a Simple Docs-As-Code Project
 
-This is a basic paragraph. You can format text to be **bold text** using two asterisks, or *italic text* using single asterisks. If you need to fix a mistake, you can use ~~strikethrough~~.
+This repository contains a simple docs-as-code project that uses Markdown, GitHub, and Docusaurus.
 
-## Section Header (Heading 2)
+## About the Author
 
-Paragraphs are separated by a blank line. If you want to force a  
-line break without a new paragraph, place two spaces at the end of the line.
-
-### Lists and Quotes (Heading 3)
-
-Here is an unordered bulleted list:
-* First item
-* Second item
-  * Indent two spaces for a sub-item
-* Third item
-
-Here is an ordered numbered list:
-1. Step one
-2. Step two
-3. Step three
-
-> This is a blockquote. It is commonly used for callouts, notes, or quoting text from another source.
-
-### Links and Images
-
-You can easily insert hyperlinks and graphics:
-* Visit the [Official Markdown Guide](https://markdownguide.org) to learn more.
-* Inline image with alt text: ![Markdown Logo](https://github.io)
-
-### Code Formatting
-
-To highlight `inline code`, surround it with single backticks. 
-
-For longer blocks of code, use triple backticks (fences) and specify the language for syntax highlighting:
-
-```python
-def greet(name):
-    print(f"Hello, {name}!")
-    return True
-```
-
-### Tables
-
-| Product | Description | Price |
-| :--- | :--- | :--- |
-| Markdown Editor | Lightweight text editing tool | $0.00 |
-| Premium Theme | Advanced styling template | $19.99 |
-
----
-*Document last updated: August 2026*
+Scott Copeland is a technical writer with 20 years of experience, including 15 years writing and publishing API documentation.
